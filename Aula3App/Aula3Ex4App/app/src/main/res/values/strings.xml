@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Aula3Ex4App</string>
+    <string name="app_name" translatable="false">BalaioDeLenha</string>
+    <string name="txt1">Consumo total R$:</string>
+    <string name="txt2">Couvert artístico R$:</string>
+    <string name="txt3">Dividir conta por:</string>
+    <string name="txt4">Taxa de Serviço (10%) R$:</string>
+    <string name="txt5">Conta total R$:</string>
+    <string name="txt6">Valor por pessoa R$:</string>
+    <string name="btn1">Calcular conta final</string>
 </resources>

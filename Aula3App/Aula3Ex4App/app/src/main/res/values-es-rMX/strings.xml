@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="btn1">Calcular factura final</string>
+    <string name="txt6">Precio por persona R$:</string>
+    <string name="txt5">Cuenta total R$:</string>
+    <string name="txt4">Tarifa de servicio (10%) R$:</string>
+    <string name="txt3">Dividir la cuenta por:</string>
+    <string name="txt2">Carga de portada artística R$:</string>
+    <string name="txt1">Consumo total R$:</string>
+</resources>

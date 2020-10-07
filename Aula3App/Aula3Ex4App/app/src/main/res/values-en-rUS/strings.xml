@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="txt1">Total consumption R$:</string>
+    <string name="txt2">"Artistic cover charge R$: "</string>
+    <string name="txt3">Divide account by:</string>
+    <string name="txt4">Service charge (10%) R$:</string>
+    <string name="txt5">Total account R$:</string>
+    <string name="txt6">Value per person R$</string>
+    <string name="btn1">Calculate final bill</string>
+</resources>

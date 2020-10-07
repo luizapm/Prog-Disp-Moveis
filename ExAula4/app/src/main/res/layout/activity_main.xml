@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnContatos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONTATOS"
+        android:onClick="abrirContatos"/>
+
+    <Button
+        android:id="@+id/btnWeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WEB"
+        android:onClick="abrirWeb"/>
+
+    <Button
+        android:id="@+id/btnCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CALL"
+        android:onClick="abrirCall"/>
+
+    <Button
+        android:id="@+id/btnMaps1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAPS1"
+        android:onClick="abrirMaps1"/>
+
+    <Button
+        android:id="@+id/btnMaps2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAPS2"
+        android:onClick="abrirMaps2"/>
+
+    <Button
+        android:id="@+id/btnMaps3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAPS3"
+        android:onClick="abrirMaps3"/>
+
+    <Button
+        android:id="@+id/btnPicIt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PIC IT!"
+        android:layout_marginBottom="10dp"
+        android:onClick="abrirPicIt"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contato"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Telefone:"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

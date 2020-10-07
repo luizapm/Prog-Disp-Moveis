@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">"Savings "</string>
+    <string name="s1">Initial Value</string>
+    <string name="s2">Monthly Application</string>
+    <string name="s3">Application Time</string>
+    <string name="s4">Rate</string>
+    <string name="s5">Calculate</string>
+    <string name="h1">Value in R$. Ex: 1700.00</string>
+    <string name="h3">In months</string>
+</resources>

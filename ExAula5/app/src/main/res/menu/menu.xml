@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"> <!-- app:algo usa esse rep, invez do padrao -->
+
+    <item
+        android:id="@+id/nomes"
+        android:icon="@drawable/lista"
+        android:title="Menu"
+        app:showAsAction="always"/> <!-- showAsAction faz parte de outro diretorio, por isso a url acima -->
+</menu>

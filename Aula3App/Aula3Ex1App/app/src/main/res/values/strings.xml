@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Poupanca</string>
+    <string name="s1">Valor Inicial:</string>
+    <string name="s2">Aplicação Mensal</string>
+    <string name="s3">Tempo da Aplicação</string>
+    <string name="s4">Taxa</string>
+    <string name="s5">Calcular</string>
+    <string name="h1">Valor em R$. Ex: 1700.00</string>
+    <string name="h2" translatable="false">Ex: 100.00</string>
+    <string name="h3">Em meses</string>
+    <string name="h4" translatable="false">Ex: 0.02</string>
+</resources>
